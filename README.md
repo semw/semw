@@ -92,7 +92,7 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=semw&hide_border=true&ring=2f9e44&fire=2f9e44&currStreakLabel=2f9e44" alt="streak"/>
+<img src="https://streak-stats.demolab.com/?user=semw&hide_border=true&ring=2f9e44&fire=2f9e44&currStreakLabel=2f9e44" alt="streak"/>
 
 </div>
 

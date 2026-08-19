@@ -43,24 +43,41 @@
 **Areas**
 
 ![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-C0392B?style=flat-square&logo=kalilinux&logoColor=white)
+![Android Security](https://img.shields.io/badge/Android_Security-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Android ROMs](https://img.shields.io/badge/Android_ROMs-A4C639?style=flat-square&logo=lineageos&logoColor=white)
+![Android Apps](https://img.shields.io/badge/Android_Apps-004D40?style=flat-square&logo=androidstudio&logoColor=white)
+![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-5D4037?style=flat-square&logo=ghidra&logoColor=white)
+![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-8B0000?style=flat-square&logo=virustotal&logoColor=white)
+![AI Security](https://img.shields.io/badge/AI_Security-412991?style=flat-square&logo=openai&logoColor=white)
 ![Web Security](https://img.shields.io/badge/Web_App_Security-2C3E50?style=flat-square&logo=owasp&logoColor=white)
 ![Network Security](https://img.shields.io/badge/Network_Security-1A5276?style=flat-square&logo=wireshark&logoColor=white)
-![Android Security](https://img.shields.io/badge/Android_Security-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Recon & OSINT](https://img.shields.io/badge/Recon_&_OSINT-6C3483?style=flat-square&logo=torproject&logoColor=white)
 
-**Tools**
+**Mobile / Android security tools**
+
+![JADX](https://img.shields.io/badge/JADX-2E7D32?style=flat-square&logo=android&logoColor=white)
+![apktool](https://img.shields.io/badge/apktool-1B5E20?style=flat-square&logo=android&logoColor=white)
+![Frida](https://img.shields.io/badge/Frida-E4405F?style=flat-square&logo=frida&logoColor=white)
+![Objection](https://img.shields.io/badge/Objection-37474F?style=flat-square&logo=android&logoColor=white)
+![MobSF](https://img.shields.io/badge/MobSF-C62828?style=flat-square&logo=android&logoColor=white)
+![Drozer](https://img.shields.io/badge/Drozer-455A64?style=flat-square&logo=android&logoColor=white)
+![ADB](https://img.shields.io/badge/ADB-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-346AC1?style=flat-square&logo=androidstudio&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+
+**Pentest / general tools**
 
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-2E4053?style=flat-square&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Frida](https://img.shields.io/badge/Frida-E4405F?style=flat-square&logo=frida&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-FF6A00?style=flat-square&logo=ghidra&logoColor=white)
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 

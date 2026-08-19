@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F9E44&center=true&vCenter=true&width=600&lines=Aspiring+Penetration+Tester;Ethical+Hacking+%7C+CEH+in+progress;TryHackMe+%26+HackTheBox+Player;Breaking+things+to+help+secure+them" alt="typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F9E44&center=true&vCenter=true&width=600&lines=Aspiring+Penetration+Tester;Security+Researcher+%7C+EH/PT+in+progress;TryHackMe+%26+HackTheBox+Player;Breaking+things+to+help+secure+them" alt="typing SVG" />
 
 # Hi, I'm Mudassar 👋
 

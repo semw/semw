@@ -28,7 +28,7 @@
 ## 🎯 About me
 
 - 🔭 Security Researcher, Currently wokring on mobile security.
-- 🎓 Preparing for the **CEH (Certified Ethical Hacker)** certification.
+- 🎓 Certified **CEH v13 (Certified Ethical Hacker)** certification.
 - 🧪 Active on **TryHackMe** and **HackTheBox** — I publish sanitized writeups [here »](https://github.com/semw/ctf-writeups).
 - 🛠️ Also building things: AI Automations, SaaS products and Android apps.
 - 📚 Documenting everything I learn — from recon to privilege escalation.
